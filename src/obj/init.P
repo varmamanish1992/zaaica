@@ -7,14 +7,13 @@ obj/init.o: init.cpp txdb.h txdb-leveldb.h main.h bignum.h serialize.h \
  zerocoin/Accumulator.h zerocoin/AccumulatorProofOfKnowledge.h \
  zerocoin/CoinSpend.h zerocoin/SerialNumberSignatureOfKnowledge.h \
  zerocoin/SpendMetaData.h zerocoin/../uint256.h \
- zerocoin/ParamGeneration.h \
- /home/ned/zaaica/src/leveldb/include/leveldb/db.h \
- /home/ned/zaaica/src/leveldb/include/leveldb/iterator.h \
- /home/ned/zaaica/src/leveldb/include/leveldb/slice.h \
- /home/ned/zaaica/src/leveldb/include/leveldb/status.h \
- /home/ned/zaaica/src/leveldb/include/leveldb/options.h \
- /home/ned/zaaica/src/leveldb/include/leveldb/write_batch.h walletdb.h \
- db.h base58.h bitcoinrpc.h json/json_spirit_reader_template.h \
+ zerocoin/ParamGeneration.h /root/zaaica/src/leveldb/include/leveldb/db.h \
+ /root/zaaica/src/leveldb/include/leveldb/iterator.h \
+ /root/zaaica/src/leveldb/include/leveldb/slice.h \
+ /root/zaaica/src/leveldb/include/leveldb/status.h \
+ /root/zaaica/src/leveldb/include/leveldb/options.h \
+ /root/zaaica/src/leveldb/include/leveldb/write_batch.h walletdb.h db.h \
+ base58.h bitcoinrpc.h json/json_spirit_reader_template.h \
  json/json_spirit_value.h json/json_spirit_error_position.h \
  json/json_spirit_writer_template.h json/json_spirit_utils.h \
  checkpoints.h init.h wallet.h ui_interface.h zerocoin/ZeroTest.h
@@ -27,14 +26,13 @@ init.cpp txdb.h txdb-leveldb.h main.h bignum.h serialize.h :
  zerocoin/Accumulator.h zerocoin/AccumulatorProofOfKnowledge.h :
  zerocoin/CoinSpend.h zerocoin/SerialNumberSignatureOfKnowledge.h :
  zerocoin/SpendMetaData.h zerocoin/../uint256.h :
- zerocoin/ParamGeneration.h :
- /home/ned/zaaica/src/leveldb/include/leveldb/db.h :
- /home/ned/zaaica/src/leveldb/include/leveldb/iterator.h :
- /home/ned/zaaica/src/leveldb/include/leveldb/slice.h :
- /home/ned/zaaica/src/leveldb/include/leveldb/status.h :
- /home/ned/zaaica/src/leveldb/include/leveldb/options.h :
- /home/ned/zaaica/src/leveldb/include/leveldb/write_batch.h walletdb.h :
- db.h base58.h bitcoinrpc.h json/json_spirit_reader_template.h :
+ zerocoin/ParamGeneration.h /root/zaaica/src/leveldb/include/leveldb/db.h :
+ /root/zaaica/src/leveldb/include/leveldb/iterator.h :
+ /root/zaaica/src/leveldb/include/leveldb/slice.h :
+ /root/zaaica/src/leveldb/include/leveldb/status.h :
+ /root/zaaica/src/leveldb/include/leveldb/options.h :
+ /root/zaaica/src/leveldb/include/leveldb/write_batch.h walletdb.h db.h :
+ base58.h bitcoinrpc.h json/json_spirit_reader_template.h :
  json/json_spirit_value.h json/json_spirit_error_position.h :
  json/json_spirit_writer_template.h json/json_spirit_utils.h :
  checkpoints.h init.h wallet.h ui_interface.h zerocoin/ZeroTest.h :
