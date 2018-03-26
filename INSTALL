@@ -1,0 +1,9 @@
+Building Ziccoin
+
+See doc/readme-qt.rst for instructions on building Ziccoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Ziccoin.
+
+See doc/build-*.txt for instructions on building ziccoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Ziccoin.
